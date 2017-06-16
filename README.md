@@ -1,2 +1,3 @@
 # hello-world
-repoisitory
+readme-edits
+I like pizza and burritos
